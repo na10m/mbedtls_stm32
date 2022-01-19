@@ -1,0 +1,15 @@
+psa_crypto_cipher.c:58:30:mbedtls_cipher_info_from_psa	32	static
+psa_crypto_cipher.c:152:21:cipher_setup	64	static
+psa_crypto_cipher.c:230:21:cipher_encrypt_setup	32	static
+psa_crypto_cipher.c:241:21:cipher_decrypt_setup	32	static
+psa_crypto_cipher.c:252:21:cipher_set_iv	24	static
+psa_crypto_cipher.c:267:21:psa_cipher_update_ecb	48	static
+psa_crypto_cipher.c:351:21:cipher_update	40	static
+psa_crypto_cipher.c:401:21:cipher_finish	48	static
+psa_crypto_cipher.c:440:21:cipher_abort	16	static
+psa_crypto_cipher.c:454:14:mbedtls_psa_cipher_encrypt_setup	32	static
+psa_crypto_cipher.c:464:14:mbedtls_psa_cipher_decrypt_setup	32	static
+psa_crypto_cipher.c:474:14:mbedtls_psa_cipher_set_iv	24	static
+psa_crypto_cipher.c:481:14:mbedtls_psa_cipher_update	32	static
+psa_crypto_cipher.c:492:14:mbedtls_psa_cipher_finish	24	static
+psa_crypto_cipher.c:500:14:mbedtls_psa_cipher_abort	16	static

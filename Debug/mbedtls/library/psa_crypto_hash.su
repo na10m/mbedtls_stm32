@@ -1,0 +1,12 @@
+psa_crypto_hash.c:127:21:hash_abort	16	static
+psa_crypto_hash.c:189:21:hash_setup	24	static
+psa_crypto_hash.c:269:21:hash_clone	16	static
+psa_crypto_hash.c:341:21:hash_update	32	static
+psa_crypto_hash.c:413:21:hash_finish	40	static
+psa_crypto_hash.c:497:21:hash_compute	256	static
+psa_crypto_hash.c:531:14:mbedtls_psa_hash_compute	32	static
+psa_crypto_hash.c:543:14:mbedtls_psa_hash_setup	16	static
+psa_crypto_hash.c:550:14:mbedtls_psa_hash_clone	16	static
+psa_crypto_hash.c:557:14:mbedtls_psa_hash_update	24	static
+psa_crypto_hash.c:565:14:mbedtls_psa_hash_finish	24	static
+psa_crypto_hash.c:574:14:mbedtls_psa_hash_abort	16	static

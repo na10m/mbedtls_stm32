@@ -1,0 +1,3 @@
+psa_crypto_client.c:34:6:psa_reset_key_attributes	16	static
+psa_crypto_client.c:40:14:psa_set_key_domain_parameters	32	static
+psa_crypto_client.c:70:14:psa_get_key_domain_parameters	24	static

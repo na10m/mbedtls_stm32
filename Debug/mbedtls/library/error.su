@@ -1,0 +1,3 @@
+error.c:186:14:mbedtls_high_level_strerr	24	static
+error.c:534:14:mbedtls_low_level_strerr	24	static
+error.c:781:6:mbedtls_strerror	40	static

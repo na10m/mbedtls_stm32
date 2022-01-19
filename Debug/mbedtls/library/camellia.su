@@ -1,0 +1,10 @@
+camellia.c:297:13:camellia_feistel	32	static
+camellia.c:322:6:mbedtls_camellia_init	16	static
+camellia.c:328:6:mbedtls_camellia_free	16	static
+camellia.c:339:5:mbedtls_camellia_setkey_enc	296	static
+camellia.c:448:5:mbedtls_camellia_setkey_dec	320	static
+camellia.c:499:5:mbedtls_camellia_crypt_ecb	48	static
+camellia.c:567:5:mbedtls_camellia_crypt_cbc	56	static
+camellia.c:627:5:mbedtls_camellia_crypt_cfb128	32	static
+camellia.c:686:5:mbedtls_camellia_crypt_ctr	40	static
+camellia.c:930:5:mbedtls_camellia_self_test	520	static

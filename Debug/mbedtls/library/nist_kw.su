@@ -1,0 +1,9 @@
+nist_kw.c:56:29:mbedtls_nist_kw_safer_memcmp	40	static
+nist_kw.c:103:6:mbedtls_nist_kw_init	16	static
+nist_kw.c:108:5:mbedtls_nist_kw_setkey	32	static
+nist_kw.c:157:6:mbedtls_nist_kw_free	16	static
+nist_kw.c:167:13:calc_a_xor_t	40	static
+nist_kw.c:180:5:mbedtls_nist_kw_wrap	112	static
+nist_kw.c:321:12:unwrap	104	static
+nist_kw.c:382:5:mbedtls_nist_kw_unwrap	80	static
+nist_kw.c:622:5:mbedtls_nist_kw_self_test	168	static

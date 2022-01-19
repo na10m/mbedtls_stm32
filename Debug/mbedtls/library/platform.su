@@ -1,0 +1,4 @@
+platform.c:283:5:mbedtls_platform_std_nv_seed_read	24	static
+platform.c:302:5:mbedtls_platform_std_nv_seed_write	24	static
+platform.c:370:5:mbedtls_platform_setup	16	static
+platform.c:380:6:mbedtls_platform_teardown	16	static

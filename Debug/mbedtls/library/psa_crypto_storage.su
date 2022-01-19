@@ -1,0 +1,15 @@
+psa_crypto_storage.c:63:26:psa_its_identifier_of_slot	16	static
+psa_crypto_storage.c:99:21:psa_crypto_storage_load	56	static
+psa_crypto_storage.c:118:5:psa_is_key_present_in_storage	40	static
+psa_crypto_storage.c:148:21:psa_crypto_storage_store	56	static
+psa_crypto_storage.c:189:14:psa_destroy_persistent_key	40	static
+psa_crypto_storage.c:221:21:psa_crypto_storage_get_data_length	40	static
+psa_crypto_storage.c:297:6:psa_format_key_data_for_storage	32	static
+psa_crypto_storage.c:317:21:check_magic_header	16	static
+psa_crypto_storage.c:325:14:psa_parse_key_data_from_storage	40	static
+psa_crypto_storage.c:374:14:psa_save_persistent_key	40	static
+psa_crypto_storage.c:404:6:psa_free_persistent_key_data	16	static
+psa_crypto_storage.c:413:14:psa_load_persistent_key	48	static
+psa_crypto_storage.c:458:14:psa_crypto_save_transaction	32	static
+psa_crypto_storage.c:477:14:psa_crypto_load_transaction	24	static
+psa_crypto_storage.c:491:14:psa_crypto_stop_transaction	16	static

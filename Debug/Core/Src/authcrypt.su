@@ -1,0 +1,4 @@
+authcrypt.cpp:21:1:Authcrypt::Authcrypt()	16	static
+authcrypt.cpp:31:1:Authcrypt::~Authcrypt()	16	static
+authcrypt.cpp:41:5:int Authcrypt::run()	88	static
+authcrypt.cpp:152:6:void Authcrypt::print_hex(const char*, const unsigned char*, size_t)	32	static

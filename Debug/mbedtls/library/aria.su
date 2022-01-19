@@ -1,0 +1,14 @@
+aria.c:201:20:aria_a	40	static
+aria.c:233:20:aria_sl	24	static
+aria.c:366:13:aria_fo_xor	64	static
+aria.c:388:13:aria_fe_xor	64	static
+aria.c:413:13:aria_rot128	40	static
+aria.c:439:5:mbedtls_aria_setkey_enc	152	static
+aria.c:504:5:mbedtls_aria_setkey_dec	56	static
+aria.c:539:5:mbedtls_aria_crypt_ecb	72	static
+aria.c:594:6:mbedtls_aria_init	16	static
+aria.c:601:6:mbedtls_aria_free	16	static
+aria.c:613:5:mbedtls_aria_crypt_cbc	56	static
+aria.c:674:5:mbedtls_aria_crypt_cfb128	32	static
+aria.c:738:5:mbedtls_aria_crypt_ctr	40	static
+aria.c:933:5:mbedtls_aria_self_test	408	static
